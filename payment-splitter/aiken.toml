@@ -1,0 +1,14 @@
+name = "aiken-lang/payment-splitter"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'aiken-lang/payment-splitter'"
+
+[repository]
+user = "aiken-lang"
+project = "payment-splitter"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.8.0"
+source = "github"

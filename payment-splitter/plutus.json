@@ -1,0 +1,14 @@
+{
+  "preamble": {
+    "title": "aiken-lang/payment-splitter",
+    "description": "Aiken contracts for project 'aiken-lang/payment-splitter'",
+    "version": "0.0.0",
+    "plutusVersion": "v2",
+    "compiler": {
+      "name": "Aiken",
+      "version": "v1.0.26-alpha+unknown"
+    },
+    "license": "Apache-2.0"
+  },
+  "validators": []
+}
